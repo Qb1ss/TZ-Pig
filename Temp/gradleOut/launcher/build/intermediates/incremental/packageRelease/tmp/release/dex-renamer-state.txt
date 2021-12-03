@@ -1,0 +1,4 @@
+#Fri Dec 03 15:51:26 VLAT 2021
+base.0=D\:\\Users\\GLEB\\Desktop\\Onix Games\\3. Small projects\\Test\\TZ Pig\\TZ Pig\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
